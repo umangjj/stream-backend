@@ -1,0 +1,9 @@
+# Dependencies
+node_modules/
+
+# Environment Variables
+.env
+
+# Uploaded Files
+public/temp/*
+!public/temp/.gitkeep
