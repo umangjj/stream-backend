@@ -20,7 +20,7 @@ A robust, production-ready backend architecture for a highly scalable video stre
 
 Clone the repository:
 ```bash
-git clone [https://github.com/umangjj/stream-backend.git](https://github.com/umangjj/stream-backend.git)
+git clone https://github.com/umangjj/stream-backend.git
 
 
 
