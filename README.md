@@ -25,8 +25,9 @@ A robust, production-ready backend architecture for a highly scalable video stre
 
 
 ## 🚀 Live API Documentation & Testing
-[👉 View the full Postman Documentation here]https://documenter.getpostman.com/view/53476807/2sBXiomViY
+[👉 View the full Postman Documentation here]`https://documenter.getpostman.com/view/53476807/2sBXiomViY`
 
 **🟢 Live Base URL:** `https://stream-api-backend.onrender.com`
+
 
 *Note: The backend is hosted on Render's free tier, so it may take 30-50 seconds to spin up on the very first request.*
