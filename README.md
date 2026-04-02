@@ -18,6 +18,15 @@ A robust, production-ready backend architecture for a highly scalable video stre
 * **Social Graph & Interactions:** Developed full CRUD capabilities for a community posting system (Tweets), nested video comments, and a polymorphic Like system that seamlessly links users to multiple content types.
 * **Playlist & Content Curation:** Flexible endpoints allowing users to construct, update, and manage dynamic arrays of video content.
 
-1. **Clone the repository:**
+ **Clone the repository:**
    ```bash
    git clone <https://github.com/umangjj/stream-backend.git>
+
+
+
+## 🚀 Live API Documentation & Testing
+[👉 View the full Postman Documentation here]https://documenter.getpostman.com/view/53476807/2sBXiomViY
+
+**🟢 Live Base URL:** `https://stream-api-backend.onrender.com`
+
+*Note: The backend is hosted on Render's free tier, so it may take 30-50 seconds to spin up on the very first request.*
