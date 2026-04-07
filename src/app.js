@@ -30,4 +30,11 @@ app.use("/api/v1/playlists", playlistRouter)
 app.use("/api/v1/dashboard", dashboardRouter)
 app.use("/api/v1/ai", aiRouter)
 
+app.get("/", (req, res) => {
+  res.status(200).json({
+    message: "Stream-ND API is live!",
+    documentation: "https://documenter.getpostman.com/view/53476807/2sBXiomViY"
+  });
+});
+
 export { app };
